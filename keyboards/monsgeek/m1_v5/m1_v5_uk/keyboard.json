@@ -7,6 +7,9 @@
         "matrix": [0, 0]
     },
     "debounce": 3,
+    "build": {
+        "debounce_type": "sym_defer_pk"
+    },
     "diode_direction": "ROW2COL",
     "dynamic_keymap": {
         "layer_count": 5
