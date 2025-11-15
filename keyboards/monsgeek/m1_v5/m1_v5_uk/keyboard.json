@@ -6,7 +6,7 @@
     "bootmagic": {
         "matrix": [0, 0]
     },
-    "debounce": 3,
+    "debounce": 1,
     "build": {
         "debounce_type": "sym_defer_pk"
     },
