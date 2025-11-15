@@ -6,7 +6,7 @@
     "bootmagic": {
         "matrix": [0, 0]
     },
-    "debounce": 5,
+    "debounce": 3,
     "diode_direction": "ROW2COL",
     "dynamic_keymap": {
         "layer_count": 5
@@ -134,7 +134,7 @@
             "typing_heatmap": true
         },
         "default": {
-            "animation": "cycle_left_right",
+            "animation": "solid_color",
             "speed": 255,
             "val": 104
         },
